@@ -1,0 +1,19 @@
+table{
+    width: 60%;
+    margin: 0 200px;
+    /*margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 200px;*/
+    
+    
+       
+}
+
+caption{
+    font-size: 25px;
+    caption-side: top;
+    font-weight: bold;
+    text-align: center;
+    
+}

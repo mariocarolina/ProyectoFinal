@@ -1,0 +1,8 @@
+
+    <style>
+        *{margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        }
+        
+        header{background-color: #33BEBE; width: 905px; height: 150px; margin-bottom: 15px } 
